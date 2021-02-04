@@ -14,7 +14,7 @@
   
   - name: "Launch database"
     include_role:
-    name: launch_database
+      name: launch_database
   
   - name: "Launch backend"
     include_role:
